@@ -4,4 +4,4 @@ Things like uhh. What was it actually? Number conversion or auto installers?<br>
 Caught me, haven't got something useful, bye 👋<br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pytorx&theme=bluenavy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pytorx&theme=navyblue)
