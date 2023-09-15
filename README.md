@@ -3,7 +3,7 @@
 ---
 # Skills
 (Or whatever you want to call 'em)
-- Web: TypeScript, Tailwind, Next.js, Bun.js
+- Web: TypeScript, Tailwind, Next.js
 - App: Java, C#
 - Other: Shell, SQL, Batch
 ---
